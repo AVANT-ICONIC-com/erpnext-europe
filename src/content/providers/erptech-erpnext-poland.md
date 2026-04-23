@@ -9,7 +9,6 @@ team_size: null
 partner_tier: null
 industries: []
 languages: ["Polish", "English"]
-also_serves: []
 ---
 ## Company Overview
 

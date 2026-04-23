@@ -9,7 +9,6 @@ team_size: "4"
 partner_tier: null
 industries: ["Manufacturing", "Construction & Trades", "Professional Services"]
 languages: ["French", "English"]
-also_serves: ["EU"]
 ---
 ## Company Overview
 

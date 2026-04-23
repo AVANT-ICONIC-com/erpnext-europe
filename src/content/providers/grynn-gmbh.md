@@ -9,7 +9,6 @@ team_size: "11-50 employees"
 partner_tier: null
 industries: ["Manufacturing", "Distribution & Logistics", "Retail & E-commerce", "Finance & Accounting"]
 languages: ["English", "German"]
-also_serves: ["Germany", "Netherlands", "Austria", "Eastern Europe"]
 ---
 ## Company Overview
 

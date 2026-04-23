@@ -9,7 +9,6 @@ team_size: "2–10 employees"
 partner_tier: null
 industries: ["Healthcare", "Professional Services"]
 languages: ["Spanish", "Galician"]
-also_serves: []
 ---
 ## Company Overview
 

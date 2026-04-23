@@ -9,7 +9,6 @@ team_size: "2-10 employees"
 partner_tier: "Bronze"
 industries: ["Manufacturing", "Professional Services"]
 languages: ["German", "English"]
-also_serves: []
 ---
 ## Company Overview
 

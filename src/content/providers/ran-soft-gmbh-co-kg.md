@@ -9,7 +9,6 @@ team_size: "1-4 employees"
 partner_tier: null
 industries: ["Manufacturing", "Professional Services"]
 languages: ["German"]
-also_serves: []
 ---
 ## Company Overview
 

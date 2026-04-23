@@ -9,7 +9,6 @@ team_size: "1–10 employees"
 partner_tier: "Emerging"
 industries: ["Manufacturing", "Retail & E-commerce", "Healthcare", "Professional Services", "Agriculture & Food", "Education", "Public Sector & Nonprofits", "Distribution & Logistics"]
 languages: ["Dutch", "English"]
-also_serves: []
 ---
 ## Company Overview
 

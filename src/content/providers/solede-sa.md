@@ -9,7 +9,6 @@ team_size: null
 partner_tier: "Entry"
 industries: ["Manufacturing", "Retail & E-commerce", "Project Management", "Education", "Professional Services"]
 languages: ["Italian", "English"]
-also_serves: []
 ---
 ## Company Overview
 

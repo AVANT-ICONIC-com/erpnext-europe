@@ -9,7 +9,6 @@ team_size: "1-10 employees"
 partner_tier: null
 industries: ["Logistics", "Healthcare", "Retail & E-commerce"]
 languages: ["German"]
-also_serves: []
 ---
 ## Company Overview
 

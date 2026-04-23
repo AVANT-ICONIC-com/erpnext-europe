@@ -23,7 +23,6 @@ const {
   languages,
   year_founded,
   team_size,
-  also_serves,
 } = entry.data;
 
 // Extract h2 headings for section navigation
@@ -110,13 +109,6 @@ const sections = headings.filter((h) => h.depth === 2);
             languages.length > 0 && (
               <span class="text-text-muted">
                 <Icon name="message-circle" /> {languages.join(", ")}
-              </span>
-            )
-          }
-          {
-            also_serves.length > 0 && (
-              <span class="text-text-muted">
-                <Icon name="map" /> Also serves: {also_serves.join(", ")}
               </span>
             )
           }

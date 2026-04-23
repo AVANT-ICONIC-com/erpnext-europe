@@ -9,7 +9,6 @@ team_size: "1-5 employees"
 partner_tier: null
 industries: ["Technology & IT", "Professional Services"]
 languages: ["German"]
-also_serves: []
 ---
 ## Company Overview
 

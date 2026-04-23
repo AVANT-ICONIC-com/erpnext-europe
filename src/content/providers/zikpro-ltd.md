@@ -9,7 +9,6 @@ team_size: "11 employees"
 partner_tier: "Emerging"
 industries: ["Manufacturing", "Retail & E-commerce", "Healthcare"]
 languages: ["English"]
-also_serves: []
 ---
 ## Company Overview
 

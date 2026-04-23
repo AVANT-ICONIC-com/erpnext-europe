@@ -9,7 +9,6 @@ team_size: "50+ employees"
 partner_tier: null
 industries: ["Manufacturing", "Retail & E-commerce", "Professional Services", "Technology & IT", "Distribution & Logistics", "Agriculture & Food"]
 languages: ["German", "Italian", "English"]
-also_serves: []
 ---
 ## Company Overview
 

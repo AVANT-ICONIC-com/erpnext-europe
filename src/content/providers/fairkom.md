@@ -9,7 +9,6 @@ team_size: "Core team with 20+ open source experts expanding the team on a flexi
 partner_tier: null
 industries: ["Public Sector & Nonprofits"]
 languages: ["German", "English"]
-also_serves: []
 ---
 ## Company Overview
 

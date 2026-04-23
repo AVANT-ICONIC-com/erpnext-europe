@@ -9,7 +9,6 @@ team_size: "< 10 employees"
 partner_tier: "Entry"
 industries: ["Manufacturing", "Professional Services", "Public Sector & Nonprofits"]
 languages: ["French", "English"]
-also_serves: []
 ---
 ## Company Overview
 

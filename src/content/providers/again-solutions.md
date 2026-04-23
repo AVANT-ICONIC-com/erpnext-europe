@@ -9,7 +9,6 @@ team_size: null
 partner_tier: null
 industries: ["Professional Services", "Technology & IT"]
 languages: ["Slovak", "English"]
-also_serves: []
 ---
 ## Company Overview
 

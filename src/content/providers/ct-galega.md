@@ -9,7 +9,6 @@ team_size: "14 employees"
 partner_tier: null
 industries: ["Professional Services"]
 languages: ["Spanish", "Galician"]
-also_serves: []
 ---
 ## Company Overview
 

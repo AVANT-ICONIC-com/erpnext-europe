@@ -15,7 +15,6 @@ const providers = defineCollection({
     partner_tier: z.string().nullable(),
     industries: z.array(z.string()).default([]),
     languages: z.array(z.string()).default([]),
-    also_serves: z.array(z.string()).default([]),
   }),
 });
 

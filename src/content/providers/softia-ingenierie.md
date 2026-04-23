@@ -9,7 +9,6 @@ team_size: "22"
 partner_tier: "Entry"
 industries: ["Technology & IT"]
 languages: ["French", "English"]
-also_serves: []
 ---
 ## Company Overview
 

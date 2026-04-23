@@ -9,7 +9,6 @@ team_size: "2-5 employees"
 partner_tier: null
 industries: ["Technology & IT", "Professional Services"]
 languages: ["Portuguese", "English"]
-also_serves: ["EU"]
 ---
 ## Company Overview
 

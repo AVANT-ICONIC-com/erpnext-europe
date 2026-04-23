@@ -9,7 +9,6 @@ team_size: "1–2 employees"
 partner_tier: null
 industries: []
 languages: ["English"]
-also_serves: []
 ---
 ## Company Overview
 

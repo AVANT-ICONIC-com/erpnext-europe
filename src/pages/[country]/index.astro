@@ -92,12 +92,6 @@ const { countryName, providers } = Astro.props;
               ))}
             </div>
           )}
-          {p.data.also_serves.length > 0 && (
-            <p class="text-xs text-text-muted mt-2">
-              <Icon name="map" size={12} /> Also serves:{" "}
-              {p.data.also_serves.join(", ")}
-            </p>
-          )}
         </a>
       ))
     }

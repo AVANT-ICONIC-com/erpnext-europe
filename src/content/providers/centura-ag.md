@@ -9,7 +9,6 @@ team_size: "~5 employees"
 partner_tier: null
 industries: ["Public Sector & Nonprofits", "Distribution & Logistics", "Technology & IT", "Manufacturing"]
 languages: ["German", "English"]
-also_serves: []
 ---
 ## Company Overview
 

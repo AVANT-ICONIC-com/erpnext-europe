@@ -9,7 +9,6 @@ team_size: null
 partner_tier: null
 industries: ["Technology & IT", "Construction & Trades"]
 languages: ["German", "English"]
-also_serves: []
 ---
 ## Company Overview
 

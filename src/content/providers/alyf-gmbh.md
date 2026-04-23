@@ -9,7 +9,6 @@ team_size: "6+ employees"
 partner_tier: "Bronze"
 industries: ["Manufacturing", "Professional Services", "Distribution & Logistics", "Retail & E-commerce", "Agriculture & Food", "Technology & IT", "Construction & Trades"]
 languages: ["German", "English"]
-also_serves: ["Austria"]
 ---
 ## Company Overview
 

@@ -9,7 +9,6 @@ team_size: null
 partner_tier: null
 industries: ["Professional Services", "Finance & Accounting", "Manufacturing"]
 languages: ["English"]
-also_serves: []
 ---
 ## Company Overview
 
