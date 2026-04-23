@@ -100,23 +100,6 @@ Italian-focused ERPNext distribution (SoledeERP) with native Italian language su
 
 ---
 
-**Management:**
-- Francesco Solcà (Sole Administrator from Coldrerio)
-- Lorenzo Caldara (Director from Laglio, Italy)
-
-**Company Information:**
-- Company purpose: Development, research, management and sale of software of any kind and for any platform; IT consulting and commerce
-- Industry: IT services
-- Structure: Company limited by shares
-- Capital: CHF 100,000.00 (increased in 2024)
-
-**Key Features:**
-- Multi-company and multi-currency support
-- Italian e-invoicing standards compliance
-- Bill of Materials (BOM) management
-- Integrated quality control
-- Supply chain planning and optimization
-
 **Sources:**
 - [Solede SA - Servizi ERP e Consulenza Gestionale](https://www.solede.ch/servizi)
 - [Solede SA - Moneyhouse (company register)](https://www.moneyhouse.ch/en/company/solede-sa-7010973091)

@@ -90,8 +90,5 @@ SMEs to mid-market companies
 
 ---
 
-**Contact:**
-Email: sales@grynn.ch
-
-**Founder:**
-Deepak Pai - MBA St. Gallen University, MIT Manipal alumnus, 2 decades IT and Finance experience
+**Research Sources:**
+- https://www.grynn.ch

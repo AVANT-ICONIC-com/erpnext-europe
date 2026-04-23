@@ -129,9 +129,5 @@ Longest-standing Frappe/ERPNext partner in DACH region with deep regional expert
 
 ---
 
-**Key Personnel:**
-- Lars Müller, CEO (from Winterthur)
-- Joël Mesmer, Managing Director
-
-**Community Activities:**
-Organizes regular ERPNext user meetings (user meetings for DACH region) with presentations and discussions on new features and implementations
+**Research Sources:**
+- https://www.libracore.com

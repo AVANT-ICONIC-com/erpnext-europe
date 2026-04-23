@@ -89,17 +89,6 @@ Recently founded (2024) but with strong focus on Swiss market needs and open-sou
 
 ---
 
-**Contact:**
-Email: contact@onfuse.ch
-Phone: +41 55 446 51 57
-Website: https://onfuse.ch/
-GitHub: https://github.com/onfuseag
-
-**Additional Products:**
-- **Insider**: Mobile app for ERPNext task management and employee tracking
-- **Planner**: Gantt chart planning tool integrated with ERPNext Tasks
-- **TimeClock**: Integration with Swiss payroll, feeds data to ERPNext Payroll and Swiss Accounting
-
 **Sources & Further Reading:**
 
 - [ONFUSE AG Website](https://onfuse.ch/)

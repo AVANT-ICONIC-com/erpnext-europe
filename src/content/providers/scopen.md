@@ -110,7 +110,7 @@ SMEs
 
 ### What makes your approach to ERPNext implementation different from others?
 
-- Cooperative (SCOP) structure: employees are majority shareholders with democratic governance
+- Cooperative (SCOP) structure: employee-partners are majority shareholders (at least 51% of capital, 65% voting rights) with democratic governance (1 person = 1 vote). The name combines "SCOP" (cooperative structure) + "OPEN" (open-source values)
 - Committed to open-source software adoption and freedom from vendor lock-in
 - Official Frappe partner with direct responsibility for ERPNext France app maintenance and development
 - French regulatory compliance expertise (FEC, transaction logs, POS compliance)
@@ -120,17 +120,7 @@ SMEs
 
 ---
 
-## Company Structure Notes
-
-**SCOP (Société Coopérative et Participative) Structure:**
-- Employee-partners are majority shareholders (at least 51% of capital, 65% voting rights)
-- Democratic decision-making (1 person = 1 vote)
-- Founded 2020 by four founders: Julien, Marc, Florian, and Nicolas
-- Name combines "SCOP" (cooperative structure) + "OPEN" (open-source values)
-
----
-
-## Sources & Research Notes
+**Sources & Research Notes:**
 
 - [Scopen Official Website](https://www.scopen.fr/)
 - [Scopen About Us](https://www.scopen.fr/a-propos-de-nous/)

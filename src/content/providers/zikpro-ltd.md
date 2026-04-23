@@ -83,17 +83,7 @@ UK partner of Frappe operating with professionalism, commitment, agility, and co
 
 ---
 
-## Company Details
-
-**Address:** 27 Old Gloucester Street, London, WC1N 3AX, United Kingdom
-
-**Company Type:** IT System Custom Software Development; Business and domestic software development; Information technology consultancy activities; Data processing, hosting and related activities; Web portals
-
-**Key Personnel:** Muhammad Kamran (Director and Secretary, appointed 9 April 2024)
-
----
-
-## Sources
+**Sources:**
 
 - [Zikpro - Home](https://www.zikpro.com/)
 - [Zikpro - About Us](https://www.zikpro.com/about)

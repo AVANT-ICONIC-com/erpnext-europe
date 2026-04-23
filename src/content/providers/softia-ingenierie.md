@@ -94,26 +94,7 @@ SMEs, startups, mid-market
 
 ---
 
-## Company Background Notes
-
-**Founded:** 2001 by Alain Rakotonanahary (ISAE-Supaero graduate, 1996)
-
-**Services Overview:**
-- IT Services and IT Consulting (ESN - Enterprise de Services du Numérique)
-- Custom information systems development
-- Application maintenance (TMA)
-- Hosting services
-- Frappe/ERPNext specialization (made strategic pillar)
-- AI-integrated custom development
-
-**Certifications:**
-- ERPNext Functional Consultant (August 2025)
-- Frappe Framework Developer (August 2025)
-- Official Frappe Partner (since August 2025)
-
----
-
-## Sources & Research Notes
+**Sources & Research Notes:**
 
 - [Softia Official Website](https://www.softia.fr/)
 - [Softia Our History](https://www.softia.fr/en/our-history/)
