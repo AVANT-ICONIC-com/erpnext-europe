@@ -63,19 +63,6 @@ export const references: Reference[] = [
     revenue: "€80M",
   },
   {
-    name: "itsdave GmbH",
-    website: "https://www.itsdave.de",
-    industry: "Retail & E-commerce",
-    country: "Germany",
-    description:
-      "Outlet center operator using ERPNext for their business operations, implemented by ALYF.",
-    provider_slug: "alyf-gmbh",
-    provider_name: "ALYF GmbH",
-    provider_country_slug: "germany",
-    employees: "10",
-    revenue: "€2M",
-  },
-  {
     name: "DACHDIGITAL GmbH",
     website: null,
     industry: "Construction & Trades",
