@@ -107,18 +107,22 @@ Yes, extensive custom development capability. Examples include guarantee process
 
 ### What does your typical implementation process look like?
 
-1. Free initial consultation to assess fit
-2. Requirements analysis, prioritization, budget and timeline estimation
-3. First working prototype (~3 months)
-4. Iterative refinement with feedback cycles (~3-6 months)
-5. Production go-live with data migration, training, and close support (~12 months total)
-6. Ongoing development with new features and continuous improvement
+ALYF follows a proven eight-phase methodology, flexibly adapted to each project — whether a complete new implementation, a partial project, or targeted support:
+
+1. **IT landscape analysis**: Assessment of existing systems, interfaces, data flows, and dependencies as the foundation for the implementation
+2. **Requirements analysis**: Systematic collection and prioritization of functional and technical requirements
+3. **Cross-departmental workshops**: Structured workshops with specialist departments to clarify processes, expectations, and priorities
+4. **Process modeling**: Documentation and optimization of business processes as the basis for mapping in ERPNext
+5. **Fit-gap analysis**: Comparison of processes against ERPNext standard to clearly identify customization needs
+6. **Data migration**: Careful planning and execution of master and transaction data transfer, including mapping rules, test migrations, and validation
+7. **Go-live & hypercare**: Accompanied production start with close support and fast response times during the critical first weeks
+8. **Ongoing support & development**: Continuous optimization, new employee training, and targeted system evolution — new modules, integrations, or adaptations
 
 Monthly billing with detailed performance tracking. Agile approach—no fixed upfront contracts. Monthly budgets controllable by customer.
 
 ### How do you handle data migration from legacy systems?
 
-Structured data migration with multi-company data consolidation, import validation, and go-live transition support.
+Data migration is planned carefully with defined mapping rules for master and transaction data, test migrations, and result validation before the actual go-live. Supports multi-company data consolidation.
 
 ## Post-Go-Live Support
 
